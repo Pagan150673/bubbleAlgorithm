@@ -1,2 +1,2 @@
 # bubbleAlgorithm
-use of the bubble algorithm
+Use of the bubble algorithm
